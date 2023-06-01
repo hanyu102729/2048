@@ -329,8 +329,10 @@ hr {
     z-index: 10;
     font-size: 55px; }
   .tile.tile-2 .tile-inner {
-    background: #eee4da;
-    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
+       background: url(https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/%E6%9D%8E%E9%8D%BE%E7%A2%A9-%E7%95%B6%E5%85%B5-%E7%A5%95%E5%AF%86%E8%8A%B1%E5%9C%92-%E7%A6%AE%E7%89%A9-%E7%B2%89%E7%B5%B2-%E7%BE%85%E6%9B%BC%E5%8F%B2%E5%88%A5%E5%86%8A%E9%99%84%E9%8C%84-%EF%BD%97%E5%85%A9%E5%80%8B%E4%B8%96%E7%95%8C-1553070998.jpg?crop=0.503xw:0.960xh;0,0&resize=640:*);
+    color: rgba(0,0,0,0);
+    background-size: cover;
+    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);}
   .tile.tile-4 .tile-inner {
     background: #ede0c8;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
